@@ -5,3 +5,4 @@ folium
 geopandas
 shapely
 fiona
+streamlit-folium
